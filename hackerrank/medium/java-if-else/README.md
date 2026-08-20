@@ -53,7 +53,7 @@ Print `Weird` if the number is weird; otherwise, print `Not Weird`.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-20T23:44:30.735Z  
+**Submitted:** 2026-08-20T23:47:41.443Z  
 
 ```java
 import java.io.*;
