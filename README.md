@@ -17,29 +17,18 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **1** |
-| 🟡 Medium | **32** |
+| 🟡 Medium | **31** |
 | 🔴 Hard | **0** |
-| **Total** | **33** |
+| **Total** | **32** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
 | Java | **32** |
-| Python | **1** |
 
-## 📂 Repository Structure
 
-```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
+
 
 ---
 
